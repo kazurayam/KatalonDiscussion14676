@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_by_data-offset-index</name>
+   <tag></tag>
+   <elementGuidId>d26318c5-f45c-48b3-93a8-ec780873fb81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[@id='ABC_listbox']/li[@data-offset-index='${index}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[@id='ABC_listbox']/li[@data-offset-index='${index}']</value>
+   </webElementProperties>
+</WebElementEntity>
